@@ -1,0 +1,16 @@
+### pytorch-geometric
+
+gqsat/models.py
+
+### Minisat & Workshop paper by Fei
+
+minisat/minisat/Makefile
+minisat/__init__.py
+minisat/minisat/simp/SimpSolver.cc
+minisat/minisat/simp/SimpSolver.h
+minisat/minisat/gym/GymSolver.cc
+minisat/minisat/gym/GymSolver.h
+minisat/minisat/gym/GymSolver.i
+minisat/minisat/gym/MiniSATEnv.py # This is heavily changed. If you run the diff, most of the file is simply rewritten by us.
+minisat/minisat/core/Solver.cc
+minisat/minisat/core/Solver.h
